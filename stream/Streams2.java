@@ -1,11 +1,7 @@
-package com.winterbe.java8.samples.stream;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Benjamin Winterberg
- */
 public class Streams2 {
 
     public static void main(String[] args) {
