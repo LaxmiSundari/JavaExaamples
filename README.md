@@ -2,7 +2,7 @@
 Java Features
 This repository mainly contains Java 8 features which includes functional programming
 
-Lambda Expression
+1. Lambda Expression : 
 Lambda expressions are introduced in Java 8 and are touted to be the biggest feature of Java 8. Lambda expression facilitates functional programming, and simplifies the development a lot.
 
 The Lambda expression is used to provide the implementation of an interface which has functional interface. It saves a lot of code. In case of lambda expression, we don't need to define the method again for providing the implementation. Here, we just write the implementation code.
