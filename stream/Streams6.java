@@ -1,4 +1,3 @@
-package com.winterbe.java8.samples.stream;
 
 import java.io.IOException;
 import java.math.BigDecimal;
@@ -6,10 +5,8 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-/**
- * @author Benjamin Winterberg
- */
-public class Streams6 {
+
+public class Streams4 {
 
     public static void main(String[] args) throws IOException {
         test1();
