@@ -3,12 +3,7 @@ import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
-/**
- * Testing the order of execution.
- *
- * @author Benjamin Winterberg
- */
-public class Streams5 {
+public class Streams3 {
 
     public static void main(String[] args) {
         List<String> strings =
